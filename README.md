@@ -23,8 +23,8 @@
 
 ![Screenshot 2023-11-28 134417](https://github.com/tamilh45/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150312761/1a3b9a40-4a53-4180-ba8d-ed8d927dcbd7)
 
-### Name: TAMIL PAVALAN M 
-### Register Number: 23013740
+### Name: SIVAKUMAR R
+### Register Number: 23013501
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
