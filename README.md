@@ -17,8 +17,7 @@
 
 ## Output:
 ![Screenshot 2023-11-28 134228](https://github.com/tamilh45/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150312761/65f6255a-b806-430e-ba00-43b7c27df3b7) 
-
-![Screenshot 2023-11-28 134303](https://github.com/tamilh45/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150312761/c292f1f2-a528-4211-a3c8-6bb3ee325ea9)
+ ![Screenshot 2023-11-28 134303](https://github.com/tamilh45/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150312761/c292f1f2-a528-4211-a3c8-6bb3ee325ea9)
 
 ![Screenshot 2023-11-28 134357](https://github.com/tamilh45/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/150312761/d6c554a4-5d77-47f0-b106-e6ff70a5ae66)
 
